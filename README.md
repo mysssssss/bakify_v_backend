@@ -1,4 +1,4 @@
-credits: Makai Pindell
+client credits: Makai Pindell
 # bakify_v_backend
 Automatically scans for analytical never words and provides synonymous terms to enhance your writing.
 
